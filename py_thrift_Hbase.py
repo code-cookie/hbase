@@ -1,7 +1,9 @@
 #coding:utf8
 '''参考：
 1,官网：https://wiki.apache.org/hadoop/Hbase/ThriftApi
-2,网上搜python hbase'''
+2,网上搜python hbase
+结合官网教程能轻松看懂
+'''
 from thrift import Thrift
 from thrift.transport import TSocket
 from thrift.transport import TTransport
